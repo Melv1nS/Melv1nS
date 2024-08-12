@@ -1,14 +1,19 @@
 Hi 👋 My name is Melvin Sureshbabu
 ==================================
 
-\*Future\* Software Engineer
+Software Engineer
 ----------------------------
 
-I've been learning to code for 3 years, since starting college. My major is in Business (Management Information Systems) but I minored in computer science and entrepreneurship and fell in love with creation technology for people. Ever since then I've been trying to expand my skills and learn as much as I can to become a software engineer and just recently I landed my first internship as a Software Engineering Intern at Toyota Connected!
+Hi, My name is Melvin Sureshbabu, I'm a Software Engineer @ John Deere currently based in Austin, TX. I graduated from The University of Texas at Austin in Spring 23' with a major in Management Information Systems and Minors in Computer Science and Entrepreneurship. At UT I interned with Toyota Connected and John Deere in software engineering. I also worked for multiple different startups and startup accelerators during my time on campus - I have a huge passion for entrepreneurship and tech. 
+
+Outside of work I love playing piano, watching sports (Go Cowboys and 
+Longhorns!), playing Valorant, hitting the gym, attending music festivals, and trying new restaurants and cuisines! 
+
+Feel free to reach out for a chat!
 
 * 🌍  I'm based in Austin
 * ✉️  You can contact me at [melvin.sureshbabu@gmail.com](mailto:melvin.sureshbabu@gmail.com)
-* 🧠  I'm learning Django!
+* 🧠  I'm working on an end-to-end automated job application service (Resumize.io)!
 * 🤝  I'm open to collaborating on interesting projects that impact lots of people!
 * ⚡  I love playing Valorant, piano, trying all kinds of new food, and startups!
 
